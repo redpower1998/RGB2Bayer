@@ -1,6 +1,6 @@
 # RGB image to Bayer image
 
-Convert Bayer BG image to RGB image. 
+Convert RGB image to Bayer BG image. 
 This is a very simple conversion algorithm with only one file. You can easily copy functions directly into your program for use.
   
 
